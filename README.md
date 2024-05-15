@@ -1,1 +1,4 @@
-[![PortFolio](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAXVBMVEUAAAD////x8fHc3Nz39/cnJyeAgICNjY3X19f09PSioqKIiIhvb283Nzdzc3PPz89fX1/IyMjj4+MwMDCtra1WVla7u7vp6em0tLQODg4gICCUlJRJSUlPT0/CwsKIk1GAAAABvUlEQVRoge2Z65aCIBRGj3kJRc2S1Kzm/R9zFHB0TAbDw2pasf8Jsi3C5DuCZxF4rTzeKYg3yw8FKCkO2+SJWt2TbJEf/3YDHDfIM508M5efdG6Ak7GcSENJ9zNoKbvIVjlb6mM48mK5s0CRK9Zb8p/lvnrKh0n3V8n9ZB/NSfn480M758w704f2feLP5CzUL+n1hGwiJ6V+wHOUZJBX2OqeSsi1/05mHHv5zo4bYNfJI1vyyIPalhs6dWNP3kBqT56C9mFjTgYXe3KLaofD4XhLfIu8OId+pjzQI85UHyuBUEcrMtHpMjRcRDwsWu3QFYs14i46NlDegLMNFJloUmAQX0VTFljJdVl+RZHnc5e4Wo4iv3HXZDdc84YbilzK2HDI5hfbhEy5bOpG+j075G0TM0qZrGwFWG650n+BGHYe4j/apCzYUd1dBKlHdY0fdaisfhCqP9eA9p7n99aK2uFwOByfC2pte65G2vItcQOcnfAiVyD6k0whoH//ZkrWRcUvW/KvPodaKhWnIuRaWTB9HuEJ2sJnT71B7jXIt1LYeKPcC6ocbRPY5pWMImNhIVC+g3+OOPhRvm9J5BsJ4xeBCuQZzQAAAABJRU5ErkJggg==)](https://barik-rajdeep.github.io/Portfolio-main/)
+ <li class="ftco-animate">
+                <a href="https://barik-rajdeep.github.io/Portfolio-main/">
+                  <span class="icon-portfolio"></span></a>
+              </li>
