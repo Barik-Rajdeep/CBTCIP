@@ -1,2 +1,2 @@
-[![](https://cdn-icons-png.flaticon.com/128/281/281089.png)](https://barik-rajdeep.github.io/Portfolio-main/)
+[![](https://www.flaticon.com/free-icon/portfolio_726056)](https://barik-rajdeep.github.io/Portfolio-main/)
 
