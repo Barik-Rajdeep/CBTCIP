@@ -1,4 +1,2 @@
- <li class="ftco-animate">
-                <a href="https://barik-rajdeep.github.io/Portfolio-main/">
-                  <span class="icon-portfolio"></span></a>
-              </li>
+[![](https://cdn-icons-png.flaticon.com/128/281/281089.png)](https://barik-rajdeep.github.io/Portfolio-main/)
+
