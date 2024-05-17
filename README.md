@@ -1,7 +1,7 @@
 
 <div id="badges">
 <a href="https://barik-rajdeep.github.io/Portfolio-main/">
-<img src="https://img.shields.io/badge/Portfolio-%20black"><alt> <---Click Here to Visit My Portfolio</alt>
+<img src="https://img.shields.io/badge/Portfolio-%20black">// <---Click Here to Visit My Portfolio//
 </a>
 </div>
 
